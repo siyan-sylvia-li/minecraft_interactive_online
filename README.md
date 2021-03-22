@@ -12,3 +12,10 @@ pip install numpy nbtlib pyvista
 ```
 #### Displaying PyVista in Jupyter Notebooks
 Follow the installation guide [here](https://docs.pyvista.org/plotting/notebook_plotting/ipyvtk_plotting.html#installation).
+
+### Usage
+1. Open the Jupyter Notebook in the cloned repository
+2. Put whatever NBT file you wish to load in the NBTs folder
+3. Modify the `load_nbt_file_plot()` line in Jupyter Notebook to the NBT file path you choose
+4. Run the Notebook!
+5. You can click the "Save" button to save your modified NBT file
