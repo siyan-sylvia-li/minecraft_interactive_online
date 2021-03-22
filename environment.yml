@@ -7,4 +7,3 @@ dependencies:
   - ipywidgets=7.5.1
   - pyvista
   - numpy
-  - nbtlib
